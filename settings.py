@@ -26,7 +26,7 @@ SECRET_KEY = '&k(-=jt!8&p6ed^o3m#032hinl*owkezsd0lkf@0#ohmcmg(yk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1','sarthak1103.github.io/sparks-bank.github.io',]
 
 
 # Application definition
